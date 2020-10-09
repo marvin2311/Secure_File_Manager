@@ -7,8 +7,11 @@ import imageio
 import cv2
 
 
+# this application only works for macOS and Linux
+# for windows, please adjust the path of your files
+ 
 
-PASSWORD = "123456"
+PASSWORD = "Add your password here"
 
 
 
